@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Devlet
+ *
+ */
+module classesWithAttributes {
+}
